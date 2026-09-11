@@ -1,0 +1,6 @@
+a =input("testcharacter:") 
+b =input("testcharacter2:") 
+c =input("testcharacter3:")
+print(a *2)
+print(b *4)
+print(c *6)
